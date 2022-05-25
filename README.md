@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najeeb-anwari&label=Profile%20views&color=0e75b6&style=flat" alt="najeeb-anwari" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=najeeb-anwari" alt="najeeb-anwari" /></a> </p>
 
 - 🔭 I’m currently working as Freelancer
 - 🌱 I’m currently Learning and Practicing **Laravel, Laravel Live-wire, ASP.NET Core MVC, Vue, and . . .**
