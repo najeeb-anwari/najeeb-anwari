@@ -4,8 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=najeeb-anwari&label=Profile%20views&color=0e75b6&style=flat" alt="najeeb-anwari" /> </p>
 
 
-- 🔭 I’m currently working as Software Developer at AAEA.
-- 🌱 I’m currently Learning and Practicing **Laravel, Laravel Live-wire, ASP.NET Core MVC, Vue, and . . .**
+- 🔭 I’m currently open for work.
+- 🌱 I’m currently Learning and Practicing **Python, Machine Learning, React, Vue, and . . .**
 
 - 💬 Ask me about **HTML, CSS, JavaScript.**
 
