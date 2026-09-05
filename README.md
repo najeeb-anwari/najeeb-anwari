@@ -75,11 +75,6 @@ Additional systems include object detection and tracking, employee identificatio
 - Frontend Mentor: Responsive interface practice and frontend challenges
 - CodeSignal: Algorithmic problem solving and runtime optimization
 
-## 📊 GitHub
-
-[![GitHub followers](https://img.shields.io/github/followers/najeeb-anwari?style=flat&label=Followers)](https://github.com/najeeb-anwari)
-[![GitHub stars](https://img.shields.io/github/stars/najeeb-anwari?style=flat&label=Stars)](https://github.com/najeeb-anwari?tab=repositories)
-
 ## 📬 Connect
 
 - **Email:** [najeeb.anwari@gmail.com](mailto:najeeb.anwari@gmail.com)
