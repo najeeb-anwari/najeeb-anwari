@@ -1,74 +1,82 @@
-# Hi 👋 I'm Abdul Najeeb Anwari
+# Hi, I'm Abdul Najeeb Anwari
 
-### Laravel & Full-Stack Web Developer
+### Full Stack Software Engineer | Enterprise Systems | Web Applications
 
-I build modern, scalable web applications using **Laravel and modern frontend technologies**.
+I build dependable software for complex operations, including ERP platforms, healthcare systems, REST APIs, and real-time collaboration tools.
 
-- 🔭 Currently **open to work and collaboration**
-- 💻 Specializing in **Laravel application development**
-- 🌱 Continuously improving in **React, Vue, and modern frontend ecosystems**
-- ⚡ Passionate about **clean architecture and maintainable systems**
+- Based in Kabul, Afghanistan
+- Open to meaningful software engineering opportunities and collaboration
+- Currently working as a Software Developer at Mumtaz Eagle Ltd
+- 5+ years of experience building enterprise web applications
 
----
+## About Me
 
-# 👨‍💻 About Me
+My work covers backend architecture, frontend interfaces, relational databases, API design, real-time communication, automated testing, and system administration.
 
-I am a **Full-Stack Web Developer** with a strong focus on the **Laravel ecosystem**.
+I enjoy turning complicated workflows into clear, maintainable, and useful software.
 
-My primary development stack includes **Laravel, Livewire, React, Vue, and Tailwind CSS**.  
-I enjoy building applications that are **scalable, maintainable, and user-focused**.
+## Featured Projects
 
----
+- **Hospital ERP System**: Patient intake, medical records, pharmacy inventory, QR tracking, billing, and reporting
+- **Mumtaz Eagle Corporate ERP**: HR, finance, procurement, assets, inventory, approvals, and executive reporting
+- **Eagle Chat & Eagle Space**: Real-time messaging, workspace channels, presence, administration, and WebSocket infrastructure
+- **Atomic Energy Agency ERP**: Government workflows for HR, procurement, inventory, project tracking, and reporting
 
-# 🛠 Tech Stack
+Additional systems include object detection and tracking, employee identification and attendance, e-commerce, scholarship management, ISP applications, and Python utilities for Kobo data cleaning.
 
-## Backend
-- PHP
-- Laravel
-- Laravel Livewire
-- REST API Development
+## Technical Stack
 
-## Frontend
-- JavaScript
-- React
-- Vue.js
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
+### Backend and Core
 
-## Databases
-- MySQL
-- SQLite
-- Microsoft SQL Server
+`Node.js` `PHP` `Laravel` `Livewire` `C#` `ASP.NET Core` `Blazor` `Entity Framework Core` `Python` `C++`
 
-## Tools
-- Git
-- GitHub
-- Chart.js
-- Selenium
-- Photoshop
+### Frontend and UI
 
----
+`JavaScript` `TypeScript` `React` `Vue.js` `Alpine.js` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3` `Inertia.js` `Mary UI`
 
-# 📊 GitHub Stats
+### APIs, Databases, and Tools
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=najeeb-anwari&show_icons=true&locale=en)
+`REST APIs` `SQL` `MySQL` `Redis` `WebSockets` `Laravel Reverb` `Git` `Postman` `Insomnia` `Selenium`
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najeeb-anwari&layout=compact)
+## Experience
 
----
+| Role | Organization | Period |
+| --- | --- | --- |
+| Software Developer | Mumtaz Eagle Ltd | October 2023 - Present |
+| Software Developer | Afghanistan Atomic Energy Agency | July 2022 - September 2023 |
+| Software Developer | PATH Organization | January 2016 - January 2020 |
 
-# 🌐 Connect With Me
+## Education
 
-- LinkedIn  
-  https://www.linkedin.com/in/abdul-najeeb-anwari/
+- **Master's Degree in Information Systems**, Kabul University · June 2023 - Present
+- **Bachelor's Degree in Computer Science**, Karwan University · April 2016 - December 2019
+  - Software Engineering
+  - Ranked 1st in class
+  - GPA: 3.63 / 4.00
 
-- Twitter  
-  https://twitter.com/najeeb_anwari
+## Languages
 
----
+- English: Fluent / Professional
+- Pashto: Native
+- Dari: Native
 
-# 💡 Philosophy
+## Professional Development
 
-> Build software that is **simple, scalable, and maintainable**.
+- Frontend Mentor: Responsive interface practice and frontend challenges
+- CodeSignal: Algorithmic problem solving and runtime optimization
+
+## GitHub Stats
+
+![Abdul Najeeb Anwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=najeeb-anwari&show_icons=true&hide_border=true&title_color=c94732&text_color=13201a&icon_color=c94732&bg_color=f7f5ef)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najeeb-anwari&layout=compact&hide_border=true&title_color=c94732&text_color=13201a&bg_color=f7f5ef)
+
+## Connect
+
+- **Email:** [najeeb.anwari@gmail.com](mailto:najeeb.anwari@gmail.com)
+- **LinkedIn:** [linkedin.com/in/abdul-najeeb-anwari](https://www.linkedin.com/in/abdul-najeeb-anwari/)
+- **GitHub:** [github.com/najeeb-anwari](https://github.com/najeeb-anwari)
+
+## Philosophy
+
+> Build software that turns complex workflows into clear, dependable experiences.
