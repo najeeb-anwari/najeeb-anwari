@@ -1,21 +1,31 @@
-# Hi, I'm Abdul Najeeb Anwari
+<div align="center">
 
-### Full Stack Software Engineer | Enterprise Systems | Web Applications
+<h1>Hi, I'm Abdul Najeeb Anwari 👋</h1>
 
-I build dependable software for complex operations, including ERP platforms, healthcare systems, REST APIs, and real-time collaboration tools.
+<p><strong>Full Stack Software Engineer | Enterprise Systems | Web Applications</strong></p>
 
-- Based in Kabul, Afghanistan
-- Open to meaningful software engineering opportunities and collaboration
-- Currently working as a Software Developer at Mumtaz Eagle Ltd
-- 5+ years of experience building enterprise web applications
+<p>
+  <a href="https://github.com/najeeb-anwari">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/abdul-najeeb-anwari/">LinkedIn</a> ·
+  <a href="mailto:najeeb.anwari@gmail.com">Email</a>
+</p>
 
-## About Me
+</div>
+
+I build dependable software for complex operations, including ERP platforms, healthcare systems, REST APIs, and real-time collaboration tools. 🧩
+
+- 📍 Based in Kabul, Afghanistan
+- 🤝 Open to meaningful software engineering opportunities and collaboration
+- 🏢 Currently working as a Software Developer at Mumtaz Eagle Ltd
+- ⏳ 5+ years of experience building enterprise web applications
+
+## 👨‍💻 About Me
 
 My work covers backend architecture, frontend interfaces, relational databases, API design, real-time communication, automated testing, and system administration.
 
-I enjoy turning complicated workflows into clear, maintainable, and useful software.
+I enjoy turning complicated workflows into clear, maintainable, and useful software. ✨
 
-## Featured Projects
+## 🚀 Featured Projects
 
 - **Hospital ERP System**: Patient intake, medical records, pharmacy inventory, QR tracking, billing, and reporting
 - **Mumtaz Eagle Corporate ERP**: HR, finance, procurement, assets, inventory, approvals, and executive reporting
@@ -24,21 +34,21 @@ I enjoy turning complicated workflows into clear, maintainable, and useful softw
 
 Additional systems include object detection and tracking, employee identification and attendance, e-commerce, scholarship management, ISP applications, and Python utilities for Kobo data cleaning.
 
-## Technical Stack
+## 🧰 Technical Stack
 
-### Backend and Core
+### ⚙️ Backend and Core
 
 `Node.js` `PHP` `Laravel` `Livewire` `C#` `ASP.NET Core` `Blazor` `Entity Framework Core` `Python` `C++`
 
-### Frontend and UI
+### 🎨 Frontend and UI
 
 `JavaScript` `TypeScript` `React` `Vue.js` `Alpine.js` `Tailwind CSS` `Bootstrap` `HTML5` `CSS3` `Inertia.js` `Mary UI`
 
-### APIs, Databases, and Tools
+### 🗄️ APIs, Databases, and Tools
 
 `REST APIs` `SQL` `MySQL` `Redis` `WebSockets` `Laravel Reverb` `Git` `Postman` `Insomnia` `Selenium`
 
-## Experience
+## 💼 Experience
 
 | Role | Organization | Period |
 | --- | --- | --- |
@@ -46,7 +56,7 @@ Additional systems include object detection and tracking, employee identificatio
 | Software Developer | Afghanistan Atomic Energy Agency | July 2022 - September 2023 |
 | Software Developer | PATH Organization | January 2016 - January 2020 |
 
-## Education
+## 🎓 Education
 
 - **Master's Degree in Information Systems**, Kabul University · June 2023 - Present
 - **Bachelor's Degree in Computer Science**, Karwan University · April 2016 - December 2019
@@ -54,29 +64,28 @@ Additional systems include object detection and tracking, employee identificatio
   - Ranked 1st in class
   - GPA: 3.63 / 4.00
 
-## Languages
+## 🌍 Languages
 
 - English: Fluent / Professional
 - Pashto: Native
 - Dari: Native
 
-## Professional Development
+## 📚 Professional Development
 
 - Frontend Mentor: Responsive interface practice and frontend challenges
 - CodeSignal: Algorithmic problem solving and runtime optimization
 
-## GitHub Stats
+## 📊 GitHub
 
-![Abdul Najeeb Anwari's GitHub stats](https://github-readme-stats.vercel.app/api?username=najeeb-anwari&show_icons=true&hide_border=true&title_color=c94732&text_color=13201a&icon_color=c94732&bg_color=f7f5ef)
+[![GitHub followers](https://img.shields.io/github/followers/najeeb-anwari?style=flat&label=Followers)](https://github.com/najeeb-anwari)
+[![GitHub stars](https://img.shields.io/github/stars/najeeb-anwari?style=flat&label=Stars)](https://github.com/najeeb-anwari?tab=repositories)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=najeeb-anwari&layout=compact&hide_border=true&title_color=c94732&text_color=13201a&bg_color=f7f5ef)
-
-## Connect
+## 📬 Connect
 
 - **Email:** [najeeb.anwari@gmail.com](mailto:najeeb.anwari@gmail.com)
 - **LinkedIn:** [linkedin.com/in/abdul-najeeb-anwari](https://www.linkedin.com/in/abdul-najeeb-anwari/)
 - **GitHub:** [github.com/najeeb-anwari](https://github.com/najeeb-anwari)
 
-## Philosophy
+## 💡 Philosophy
 
 > Build software that turns complex workflows into clear, dependable experiences.
